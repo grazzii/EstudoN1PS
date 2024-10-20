@@ -5,10 +5,10 @@ import java.util.*;
 
 public final class App {
     public static void main(String[] args) throws SQLException {
-        //ler();
+        ler();
         //inserir();
         //alterar();
-        apagar();
+        //apagar();
     }
 
     public static void apagar() throws SQLException {
